@@ -93,4 +93,4 @@ basic.forever(function () {
     }
 
     basic.pause(400) // 速度（ミリ秒）
-}
+})
